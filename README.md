@@ -1,4 +1,4 @@
-# simple-crud-app-27-11-2016
+# simple-crud-app-24-11-2016
 Aplicativo SimlpeCrudApp desenvolvido na aula do dia 24/11/2016
 ## Instalação:
 * Clonar o reporitório localmente;
